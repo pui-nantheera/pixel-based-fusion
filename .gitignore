@@ -1,0 +1,8 @@
+﻿.DS_Store
+*.bak
+~
+*.tmp
+*.swp
+._*
+*.aux
+*.asv
